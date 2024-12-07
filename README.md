@@ -1,5 +1,5 @@
 ## Description:
-This repository contains the completed dashboard project for the "Peer-Graded Assignment: Building a Dashboard with IBM Cognos Analytics." The project uses the 2019 Stack Overflow Developer Survey dataset to create interactive visualizations in IBM Cognos Analytics, providing insights into current and future technology trends, as well as demographic patterns.
+This repository contains a dashboard project built in IBM Cognos Analytics using a subset of the 2019 Stack Overflow Developer Survey dataset. It includes visualizations for current technology usage, future trends, and demographics, presented as PDF exports.
 
 ## Key Features:
 Current Technology Usage Dashboard:
